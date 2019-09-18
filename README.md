@@ -1,3 +1,6 @@
+Read more : https://medium.com/rti-cds/introducing-gobbli-b625c0a0adfe
+
+
 <div align="center">
   <div>
     <img src="https://raw.githubusercontent.com/RTIInternational/gobbli/master/img/gobbli_lg.svg?sanitize=true" alt="gobbli logo" width="200" />
