@@ -1,4 +1,5 @@
 Read more : https://medium.com/rti-cds/introducing-gobbli-b625c0a0adfe
+            https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a
 
 
 <div align="center">
